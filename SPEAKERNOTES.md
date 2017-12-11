@@ -15,6 +15,7 @@
 * Are you a media & curriculum company? Or a product and platform company?
 * How complex is it to install (or is therei install)?
 * Who is the primary user? Are they also the buyer (Rarely the case)
+* Freemium, the channel, and how long to pay
 
 ### Channel considerations
 * Marketing Channels vs. Sales Channels
@@ -35,18 +36,27 @@ Strongly recommend you read and review the original governmental sites, etc. abo
 * eRate
 	* https://tech.ed.gov/funding/
 	* [Application](http://www.universalservice.org/sl/tools/apply-to-erate/default.aspx)
-* [ESSA](https://www.ed.gov/essa)
+* [ESSA - Every Student Succeeds Act](https://www.ed.gov/essa)
+	* College and Career-readiness needs as determined by states
+	* Note: "New" federal CS funding will come via ESSA?
 * Common Core
 * NYSTL
-* Title I & Relationship with FL
+* Title I & Relationship with FRL
+* Mayoral Control
+* [BOCES (Think "Shared Services")](http://www.boces.org/about-boces/)
 
 
-Examples of Sales Channel Partners
-* Edhesive
-* Learning.com
-* Edmentum
-* SunBurst
-* Jason
+Examples of Sales Channel Types
+* Resellers and Distribution
+	* Edhesive
+	* Learning.com
+	* Edmentum
+	* SunBurst
+	* Jason Learning
+* Independent Reps
+	* Not just invoicing ... also installation and support
+* Online Aggregators
+* Old School Catalog Sales
 
 
 Thoughts on events:
@@ -57,8 +67,12 @@ Thoughts on events:
 
 Media
 * Edsurge
-* Industy News
+* Industy Drive
 * eSchool News
+* Edutopia (George Lucas)
+
+Marketing
+* Teacher Referrals
 
 
 [NYC DOE](http://schools.nyc.gov/Offices/DCp/default.htm)
@@ -75,10 +89,13 @@ Media
 		* Reso-A
 
 
-* (NYC Vendor Enrollment)[http://www.nyc.gov/html/selltonyc/html/sell/enrollment.shtml]
-* (RFPs)[http://schools.nyc.gov/Offices/DCP/Vendor/RFP/Default.htm]
+* [NYC Vendor Enrollment](http://www.nyc.gov/html/selltonyc/html/sell/enrollment.shtml)
+* [RFPs](http://schools.nyc.gov/Offices/DCP/Vendor/RFP/Default.htm)
 * FAMIS
 * Professional Services (Note - Includes Some Tech)[http://schools.nyc.gov/Offices/DCP/BuyingTools/ProfessionalServices/Default.htm]
+
+More Reading
+* [EdSurge - Navigating K-12 Channels](https://www.edsurge.com/news/2014-01-16-navigating-the-k-12-sales-channels)
 
 
 * My Background
