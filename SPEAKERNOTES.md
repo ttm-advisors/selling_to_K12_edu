@@ -13,33 +13,39 @@
 
 ### Product and Offer Questions
 * Are you a media & curriculum company? Or a product and platform company?
+* How complex is it to install (or is therei install)?
+* Who is the primary user? Are they also the buyer (Rarely the case)
 
 ### Channel considerations
 * Marketing Channels vs. Sales Channels
+* Do want reach? Or expertise? (Or Both?)
+* Expansive/Intensive vs. Selective vs. Exclusive
+* Margins
+
 
 ### Brand Awareness
-So what’s the goal of brand awareness? Well, the name kind of says it all, right? 
-
-Prime the pump and set the stage such that when you knock on doors people will have heard of you.
-
-Ideally prospects – prospective customers, prospective partners, and prospective investors, will not only know who 
-
-
-
+* So what’s the goal of brand awareness? Well, the name kind of says it all, right?
+* Prime the pump and set the stage such that when you knock on doors people will have heard of you.
+* Ideally prospects – prospective customers, prospective partners, and prospective investors, will not only know who
 
 ### Terms / Things to Know About:
 Strongly recommend you read and review the original governmental sites, etc. about these and use the EdTech media for further information.
 * [Perkins Grants](http://cte.ed.gov/legislation/about-perkins-iv)
+	* Falls under Title IV
 * eRate
 	* https://tech.ed.gov/funding/
 	* [Application](http://www.universalservice.org/sl/tools/apply-to-erate/default.aspx)
 * [ESSA](https://www.ed.gov/essa)
 * Common Core
 * NYSTL
+* Title I & Relationship with FL
+
 
 Examples of Sales Channel Partners
 * Edhesive
 * Learning.com
+* Edmentum
+* SunBurst
 * Jason
 
 
@@ -47,23 +53,43 @@ Thoughts on events:
 * ITSE https://www.iste.org/
 * SxSWEdu
 * NY EDTECH WEEK
+* [CUE] (http://www.cue.org/about)
+
+Media
+* Edsurge
+* Industy News
+* eSchool News
 
 
 [NYC DOE](http://schools.nyc.gov/Offices/DCp/default.htm)
 * $24B budget
-* 1,700 schools
+* 1,700 schools, each with a budget in rough neighborhood of $20M
 * 1,300 buildings
 * 1.1M students
 * 75k teacher
 * A Sample School Budget:
  	* [Summary](http://schools.nyc.gov/SchoolPortals/13/K282/AboutUs/Statistics/expenditures.htm)
-	* [Details] (https://www.nycenet.edu/offices/d_chanc_oper/budget/exp01/y2015_2016/function.asp?LCMS=K282&search=K282&schoolgo=Go&prior=search)
+	* [Details](https://www.nycenet.edu/offices/d_chanc_oper/budget/exp01/y2015_2016/function.asp?LCMS=K282&search=K282&schoolgo=Go&prior=search)
 	* What's not here?
 		* PTA
 		* Reso-A
 
 
-* RFPs
-	* http://www.nyc.gov/html/cityrecord/home.html
+* (NYC Vendor Enrollment)[http://www.nyc.gov/html/selltonyc/html/sell/enrollment.shtml]
+* (RFPs)[http://schools.nyc.gov/Offices/DCP/Vendor/RFP/Default.htm]
 * FAMIS
-* Professional Services (Note - Includes Somt Tech)[http://schools.nyc.gov/Offices/DCP/BuyingTools/ProfessionalServices/Default.htm]
+* Professional Services (Note - Includes Some Tech)[http://schools.nyc.gov/Offices/DCP/BuyingTools/ProfessionalServices/Default.htm]
+
+
+* My Background
+	* Maine
+		* Kristen
+	* JET
+	* Pandesic
+	* KPMG
+	* Deloitte
+	* Relay
+	* TeachCS
+	* CodeBrooklyn
+	* NY TechResponds
+	* TTM Advisors
