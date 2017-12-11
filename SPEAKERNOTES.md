@@ -11,11 +11,16 @@
 * How do approved vendor list works?
 * What are some additional considerations for selling into NYC city schools?
 
+### Product and Offer Questions
+* Are you a media & curriculum company? Or a product and platform company?
+
 
 ### Terms:
 Perkins Grants
 eRate
 ESSA
+Common Core
+NYSTL
 
 Examples of Sales Channel Partners
 * Edhesive
