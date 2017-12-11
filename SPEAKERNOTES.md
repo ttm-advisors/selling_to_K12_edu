@@ -14,6 +14,18 @@
 ### Product and Offer Questions
 * Are you a media & curriculum company? Or a product and platform company?
 
+### Channel considerations
+* Marketing Channels vs. Sales Channels
+
+### Brand Awareness
+So what’s the goal of brand awareness? Well, the name kind of says it all, right? 
+
+Prime the pump and set the stage such that when you knock on doors people will have heard of you.
+
+Ideally prospects – prospective customers, prospective partners, and prospective investors, will not only know who 
+
+
+
 
 ### Terms:
 Perkins Grants
