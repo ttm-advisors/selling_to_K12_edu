@@ -93,9 +93,9 @@ Marketing
 * [RFPs](http://schools.nyc.gov/Offices/DCP/Vendor/RFP/Default.htm)
 * FAMIS
 * Professional Services (Note - Includes Some Tech)[http://schools.nyc.gov/Offices/DCP/BuyingTools/ProfessionalServices/Default.htm]
+* [Department of Youth & Community Development](https://www1.nyc.gov/site/dycd/services/after-school.page)
 
-More Reading
-* [EdSurge - Navigating K-12 Channels](https://www.edsurge.com/news/2014-01-16-navigating-the-k-12-sales-channels)
+
 
 
 * My Background
